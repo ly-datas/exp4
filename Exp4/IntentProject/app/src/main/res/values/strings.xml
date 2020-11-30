@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentProject</string>
+    <string name="btn">Search</string>
+    <string name="editText">Looking for...</string>
+
+    <string name="gbtn"></string>
+    <string name="webView"></string>
+
+</resources>
